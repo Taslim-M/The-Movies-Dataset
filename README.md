@@ -5,7 +5,7 @@ Link to kaggle dataset: https://www.kaggle.com/rounakbanik/the-movies-dataset
 
 Usage:
 
-Data_Cleaning_PreProcessing.ipynb - the file which explores the data, cleans up, deals with Imbalanced classes problem, normalize the numerical columns (min-max_
+Data_Cleaning_PreProcessing.ipynb - the file which explores the data, cleans up, deals with JSON column for Genres, deals with Imbalanced classes problem, normalize the numerical columns (min-max scaling)
 
 DimensionalityReductionPCA.ipynb - Apply PCA, selectKBest, selectPercentile
 
