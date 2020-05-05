@@ -10,3 +10,5 @@ Data_Cleaning_PreProcessing.ipynb - the file which explores the data, cleans up,
 DimensionalityReductionPCA.ipynb - Apply PCA, selectKBest, selectPercentile
 
 Gridsearch #4 XXX - Apply Gridsearch for each of the classifiers, find the best params for normal data and data with feature selection and/or dimensionality reduction.
+
+The npy files are used to save data after pre-processing, and loading them subsequently.
